@@ -1,0 +1,10 @@
+{
+    "windowsYnabDir": "C:\\Users\\you\\Dropbox\\YNAB",
+    "macYnabDir": "/Users/you/Dropbox/YNAB",
+    "toSplitCategoryPath": "Chaff/To Split",
+    "budgetName": "My Budget~ABCDEF12.ynab4",
+    "smallerSplitDenominator": 2,
+    "smallerSplitCategoryPath": "Chaff/Some Category",
+    "largerSplitCategoryPath": null,
+    "ledgerOutputFormat": "{date}\t{txDate}\t{splitAmount}\t{totalAmount} {payee}"
+}
